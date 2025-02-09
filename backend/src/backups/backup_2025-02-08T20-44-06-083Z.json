@@ -1,0 +1,167 @@
+{
+  "timestamp": "2025-02-08T20:44:06.083Z",
+  "dados": {
+    "produtos": [
+      {
+        "pro_codigo": "7",
+        "pro_descricao": "Webcam HD 1080p",
+        "pro_valor": "199.99",
+        "pro_quantidade": 25,
+        "tb_fornecedores_for_codigo": "1"
+      },
+      {
+        "pro_codigo": "8",
+        "pro_descricao": "Headset Gamer 7.1",
+        "pro_valor": "179.99",
+        "pro_quantidade": 40,
+        "tb_fornecedores_for_codigo": "2"
+      },
+      {
+        "pro_codigo": "9",
+        "pro_descricao": "Placa de Vídeo GTX 1660",
+        "pro_valor": "1499.99",
+        "pro_quantidade": 10,
+        "tb_fornecedores_for_codigo": "3"
+      },
+      {
+        "pro_codigo": "10",
+        "pro_descricao": "Fonte 600W 80 Plus",
+        "pro_valor": "399.99",
+        "pro_quantidade": 35,
+        "tb_fornecedores_for_codigo": "2"
+      },
+      {
+        "pro_codigo": "2",
+        "pro_descricao": "Mouse Gamer RGB",
+        "pro_valor": "129.99",
+        "pro_quantidade": 49,
+        "tb_fornecedores_for_codigo": "2"
+      },
+      {
+        "pro_codigo": "3",
+        "pro_descricao": "Teclado Mecânico",
+        "pro_valor": "299.99",
+        "pro_quantidade": 29,
+        "tb_fornecedores_for_codigo": "2"
+      },
+      {
+        "pro_codigo": "4",
+        "pro_descricao": "Monitor 24\" Full HD",
+        "pro_valor": "899.99",
+        "pro_quantidade": 19,
+        "tb_fornecedores_for_codigo": "1"
+      },
+      {
+        "pro_codigo": "5",
+        "pro_descricao": "SSD 480GB",
+        "pro_valor": "299.99",
+        "pro_quantidade": 44,
+        "tb_fornecedores_for_codigo": "3"
+      },
+      {
+        "pro_codigo": "6",
+        "pro_descricao": "Memória RAM 8GB DDR4",
+        "pro_valor": "249.99",
+        "pro_quantidade": 59,
+        "tb_fornecedores_for_codigo": "3"
+      },
+      {
+        "pro_codigo": "1",
+        "pro_descricao": "Notebook Dell Inspiron 15",
+        "pro_valor": "3599.99",
+        "pro_quantidade": 13,
+        "tb_fornecedores_for_codigo": "1"
+      }
+    ],
+    "fornecedores": [
+      {
+        "for_codigo": "1",
+        "for_descricao": "Tech Solutions LTDA",
+        "for_cidade": "São Paulo"
+      },
+      {
+        "for_codigo": "2",
+        "for_descricao": "Hardware Express",
+        "for_cidade": "Curitiba"
+      },
+      {
+        "for_codigo": "3",
+        "for_descricao": "Informática Brasil",
+        "for_cidade": "Rio de Janeiro"
+      }
+    ],
+    "vendas": [
+      {
+        "ven_codigo": "3",
+        "ven_data": "2025-02-07T07:10:29.597Z",
+        "ven_valor_total": "3729.98"
+      },
+      {
+        "ven_codigo": "6",
+        "ven_data": "2025-02-08T20:27:15.091Z",
+        "ven_valor_total": "1199.98"
+      },
+      {
+        "ven_codigo": "7",
+        "ven_data": "2025-02-08T20:28:01.560Z",
+        "ven_valor_total": "549.98"
+      },
+      {
+        "ven_codigo": "8",
+        "ven_data": "2025-02-08T20:36:05.241Z",
+        "ven_valor_total": "3599.99"
+      }
+    ],
+    "itens": [
+      {
+        "ite_codigo": "1",
+        "ite_quantidade": 1,
+        "ite_valor_parcial": "3599.99",
+        "tb_produtos_pro_codigo": "1",
+        "tb_vendas_ven_codigo": "3"
+      },
+      {
+        "ite_codigo": "2",
+        "ite_quantidade": 1,
+        "ite_valor_parcial": "129.99",
+        "tb_produtos_pro_codigo": "2",
+        "tb_vendas_ven_codigo": "3"
+      },
+      {
+        "ite_codigo": "3",
+        "ite_quantidade": 1,
+        "ite_valor_parcial": "299.99",
+        "tb_produtos_pro_codigo": "3",
+        "tb_vendas_ven_codigo": "6"
+      },
+      {
+        "ite_codigo": "4",
+        "ite_quantidade": 1,
+        "ite_valor_parcial": "899.99",
+        "tb_produtos_pro_codigo": "4",
+        "tb_vendas_ven_codigo": "6"
+      },
+      {
+        "ite_codigo": "5",
+        "ite_quantidade": 1,
+        "ite_valor_parcial": "299.99",
+        "tb_produtos_pro_codigo": "5",
+        "tb_vendas_ven_codigo": "7"
+      },
+      {
+        "ite_codigo": "6",
+        "ite_quantidade": 1,
+        "ite_valor_parcial": "249.99",
+        "tb_produtos_pro_codigo": "6",
+        "tb_vendas_ven_codigo": "7"
+      },
+      {
+        "ite_codigo": "7",
+        "ite_quantidade": 1,
+        "ite_valor_parcial": "3599.99",
+        "tb_produtos_pro_codigo": "1",
+        "tb_vendas_ven_codigo": "8"
+      }
+    ]
+  }
+}
