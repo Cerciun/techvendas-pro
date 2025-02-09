@@ -176,11 +176,3 @@ npm run lint  # Executa verificação de código
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 💡 Implementações Futuras
-
-- [ ] Relatórios em PDF
-- [ ] Integração com API de pagamentos
-- [ ] App mobile
-- [ ] Módulo fiscal
-- [ ] Múltiplas filiais
